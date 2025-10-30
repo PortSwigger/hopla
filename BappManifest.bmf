@@ -5,9 +5,9 @@ RepoName: hopla
 ScreenVersion: 2.2.0
 SerialVersion: 1
 MinPlatformVersion: 21
-ProOnly: False
-Author: synacktiv
-ShortDescription: HopLa enhances the Burp Suite by integrating AI, intelligent autocompletion, and built-in payloads for improved intrusion testing. It also supports interaction with AI providers and customization of payloads.
+ProOnly: True
+Author: Synacktiv
+ShortDescription: AI-powered chat and request transformation with comprehensive payload library and keyboard shortcuts for penetration testing.
 EntryPoint: HopLa.jar
 BuildCommand: ./gradlew build
-SupportedProducts: Pro, Community
+SupportedProducts: Pro
